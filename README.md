@@ -42,7 +42,7 @@ This tool captures UDP network traffic to Aces High game servers and analyzes pa
 
 ## Usage
 
-1. **Run as Administrator** (required for packet capture)
+1. **Unzip the V1.zip to a folder** 
    - Double-click `START_ANALYZER.vbs`
    - Or right-click `aces_analyzer_v3.py` → "Run as Administrator"
 
