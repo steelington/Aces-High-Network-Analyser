@@ -35,8 +35,8 @@ This tool captures UDP network traffic to Aces High game servers and analyzes pa
    - Use default installation location
 
 3. **Download the analyzer**
-   ```bash
-   [See the releases link on the right](https://github.com/steelington/Aces-High-Network-Analyser/releases/download/v1.0.0/V1.zip)
+   
+   [See the releases link on the right](https://github.com/steelington/Aces-High-Network-Analyser/releases/download/v1.0.0/)
    ```
 
 
