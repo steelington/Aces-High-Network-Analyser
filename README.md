@@ -36,14 +36,9 @@ This tool captures UDP network traffic to Aces High game servers and analyzes pa
 
 3. **Download the analyzer**
    ```bash
-   git clone https://github.com/yourusername/aces-network-analyzer.git
-   cd aces-network-analyzer
+   See the releases link on the right
    ```
 
-4. **Install Python dependencies**
-   ```bash
-   pip install numpy matplotlib
-   ```
 
 ## Usage
 
